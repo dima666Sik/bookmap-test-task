@@ -17,22 +17,22 @@ The second line of the input contains the string S, which consists of only the c
 
 The next q lines each contain a query in the form of three integers l, r, and k, representing a tuple (l, r, k).
 
-Input values range:
-n, q - 1...105
-l, r - 1...n
-k - 1...n
-l <= r
-k <= r - l + 1
+<br>Input values range:
+<br>n, q - 1...105
+<br>l, r - 1...n
+<br>k - 1...n
+<br>l <= r
+<br>k <= r - l + 1
 
 Example of input file:
-8 3
-ABBABAAB
-1 4 4
-2 6 1
-3 7 5
-Output file
-Example of output file (for this input file):
+<br>8 3
+<br>ABBABAAB
+<br>1 4 4
+<br>2 6 1
+<br>3 7 5
+<br>Output file
+<br>Example of output file (for this input file):
 
-3
-3
--1
+<br>3
+<br>3
+<br>-1
