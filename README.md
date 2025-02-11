@@ -30,9 +30,9 @@ Example of input file:
 <br>1 4 4
 <br>2 6 1
 <br>3 7 5
+
 <br>Output file
 <br>Example of output file (for this input file):
-
 <br>3
 <br>3
 <br>-1
